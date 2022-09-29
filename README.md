@@ -1,0 +1,2 @@
+# Seismic-Image-Classification
+Classify a given image as an image of fault, salt or any other class. Input dataset contains 500 images in .jpeg format of each class. CNN is used for training and prediction. Training is done 1200 images containing 400 images of each class and final testing is done on the left out 300 images. Using TensorBoard accuracy and loss curves are also generated to observe the overall performance of the model.
